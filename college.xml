@@ -1,0 +1,86 @@
+<?xml-stylesheet href="style.css"?>
+<college>LNMI
+	<course          >BCA
+		<session>2019
+			<semester sem="5A">5A
+				<student>	
+					<roll>101</roll>
+					<name>Sonu</name>	
+				</student>
+				<student>
+					<roll>102</roll>
+					<name>Nihal</name>	
+				</student>
+			</semester>
+			<semester sem="5B">5B
+				<student>
+					<roll>201</roll>
+					<name>Ankit</name>	
+				</student>
+				<student>
+					<roll>202</roll>
+					<name>Anish</name>	
+				</student>
+			</semester>
+		</session>
+		<session>2020
+			<semester sem="4A">4A
+				<student>
+					<roll>401</roll>
+					<name>Sonu</name>	
+				</student>
+				<student>
+					<roll>402</roll>
+					<name>Nihal</name>	
+				</student>
+			</semester>
+			<semester sem="4B">4B
+				<student>
+					<roll>441</roll>
+					<name>Ankit</name>	
+				</student>
+				<student>
+					<roll>442</roll>
+					<name>Anish</name>	
+				</student>
+			</semester>
+		</session>
+	</course>
+	<course>MHRM	
+		<session>2018
+			<semester sem="1A">1A
+				<student>
+					<roll>101</roll>
+					<name>Sonu</name>	
+				</student>
+				<student>
+					<roll>102</roll>
+					<name>Nihal</name>	
+				</student>
+			</semester>
+			
+		</session>
+		<session>2020
+			<semester sem="4A">4A
+				<student>
+					<roll>401</roll>
+					<name>Sonu</name>	
+				</student>
+				<student>
+					<roll>402</roll>
+					<name>Nihal</name>	
+				</student>
+			</semester>
+			<semester sem="4B">4B
+				<student>
+					<roll            >441</roll>
+					<name>Ankit</name>	
+				</student>
+				<student>
+					<roll>442</roll>
+					<name>Anish</name>	
+				</student>
+			</semester>
+		</session>
+	</course>
+</college>

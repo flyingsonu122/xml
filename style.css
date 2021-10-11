@@ -1,0 +1,10 @@
+college { 
+  line-height: 1.5;
+  margin-right: 15%;
+  color: blue;
+}
+student {
+  white-space: pre-line;
+  color:red;
+}
+
