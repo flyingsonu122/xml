@@ -2,7 +2,7 @@
    
 <br>
 
-[college](https://www.sonu.live/xml/college.xml)
+[college](https://flyingsonu122.github.io/xml/college.xml)
 
 <br><br><br><br>
 
